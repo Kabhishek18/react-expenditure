@@ -1,4 +1,4 @@
-import './ExpenseItem.css';
+import './ExpenseDate.css';
 function ExpenseDate(expenseDate) {
 	const month =expenseDate.date.toLocaleString('en-US',{month:'long'});
 	const year =expenseDate.date.getFullYear();

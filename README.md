@@ -4,7 +4,7 @@ Expenditure Module is a Basic management.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [NPM](https://nodejs.org/en/) to install foobar.
 
 ```bash
 npm install
